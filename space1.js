@@ -1,0 +1,35 @@
+function gagan() {
+    document.getElementById("h1").innerHTML="Gaganyan";
+    document.getElementById("changepera1").innerHTML="Four Indian Air Force (IAF) pilots, chosen as candidate-astronauts for India’s first manned mission Gaganyaan, have begun training at the Gagarin Research and Test Cosmonaut Training Centre (GCTC) in Moscow, Russia.In June 2019, the Human Space Flight Centre of the Indian Space Research Organisation (ISRO) and the Russian government-owned Glavkosmos signed a contract for the training, which includes Russian support in the selection of candidates, their medical examination, and space training.The candidates will study in detail the systems of the Soyuz manned spaceship, as well as be trained in short-term weightlessness mode aboard the Il-76MDK aircraft.The Soyuz is a Russian spacecraft. The Soyuz carries people and supplies to and from the space station. The Il-76MDK is a military transport plane specially designed for parabolic flights of trainee astronauts and space tourists.The candidates will also be trained to take appropriate actions during emergencies — for example should the spacecraft make an abnormal landing in (unplanned) climate and geographic zones.";
+
+    document.getElementById("changepera2").innerHTML="Gaganyaan is the ₹10,000-crore Indian human space flight scheduled for 2022. It is designed to have 3-7 crew members spend 3-7 days in space in a 400-km orbit.The first of the two pre-Gaganyaan flights with a humanoid will be launched in 2020-end along with some of the six shortlisted microgravity experiments.";
+    // document.getElementById("change").style = "color: red";
+    // document.getElementsById("bg-img").style.backgroundImage = "url('https://www.w3schools.com/jsref/prop_style_backgroundimage.asp')";
+}
+
+function chandra() {
+    document.getElementById("h1").innerHTML="Chandrayan(3)";
+    
+    document.getElementById("changepera1").innerHTML="Chandrayaan-3's successful landing came after the setback of the Chandrayaan-2 mission's landing failure in 2019.Chandrayaan-3 has made history by becoming the first mission to soft-land on the lunar south pole, a region that has never been explored before. The mission aimed to demonstrate safe and soft lunar landing, rover mobility, and in-situ scientific experiments.India now joins the United States, Russia, and China as one of the few countries to successfully land on the Moon.Chandrayaan-3 aimed to investigate 'permanently shadowed regions' near the South Pole for potential water-ice and resources. The Vikram lander's controlled descent achieved one of the closest approaches to the Moon's South Pole.While a notable achievement, Vikram's landing occurred on the Moon's near side, unlike China's Chang'e 4 on the far side.The near side, visible from Earth due to synchronous rotation, covers 60% of the Moon.The far side, though not always in darkness, remained hidden until the Soviet spacecraft Luna 3 captured images in 1959.Chandrayaan-3 is expected to operate for at least one lunar day (14 Earth days) on the lunar surface.The Pragyan rover will move around the landing site within a radius of 500 meters, conducting experiments and sending data and images to the lander.The Vikram lander will relay the data and images to the orbiter, which will then transmit them to Earth.";
+
+    document.getElementById("changepera2").innerHTML="Chandrayaan-3 is expected to operate for at least one lunar day (14 Earth days) on the lunar surface.The Pragyan rover will move around the landing site within a radius of 500 meters, conducting experiments and sending data and images to the lander. The Vikram lander will relay the data and images to the orbiter, which will then transmit them to Earth.";
+}
+
+function navic() {
+    document.getElementById("h1").innerHTML="Navic";
+
+    document.getElementById("changepera1").innerHTML="Navigation in Indian Constellation (NavIC) is an Indian Regional Navigation Satellite System (IRNSS), developed by the Indian Space Research Organization (ISRO).IRNSS consists of eight satellites, three satellites in geostationary orbit and five satellites in geosynchronous orbit.The main objective is to provide reliable position, navigation and timing services over India and its neighbourhood.It works just like the established and popular U.S. Global Positioning System (GPS) but within a 1,500-km radius over the sub-continent.It has been certified by the 3rd Generation Partnership Project (3GPP), a global body for coordinating mobile telephony standards."
+
+    document.getElementById("changepera2").innerHTML="The United States Global Positioning System (GPS) – World’s most used GPS system, operational from 1978. Constellation of 32 satellites.Russian GLONASS – It provides global coverage. It has a total of 26 satellites.European Union Galileo – Became operational in 2016, with a constellation of 30 satellites.Chinese BeiDou – Currently it provides regional coverage of the Asia- Pacific region, plans to provide global coverage by 2020. It has a total of 35 satellites.Japanese Quasi-Zenith Satellite System (QZSS) – It is a regional satellite system covering Japan and the Asia-Oceania region. It has a total of 4 satellites, 7 are planned.India (IRNSS-NAVIC) – Constellation of 8 Satellites."
+
+}
+
+function aditya() {
+    document.getElementById("h1").innerHTML="Aditya(L1)";
+
+    document.getElementById("changepera1").innerHTML="Recently, the Visible Line Emission Coronagraph (VLEC), the primary payload on board Aditya-L1, was handed over to  Indian Space Research Organisation (ISRO) by the Indian Institute of Astrophysics (IIA).ISRO is planning to launch the Aditya-L1 mission, first Indian space mission to observe the Sun by June or July 2023 to observe the Sun and the solar corona.Aditya L1 will be launched using the Polar Satellite Launch Vehicle (PSLV) with 7 payloads (instruments) on board.Aditya L1 will study the Sun’s corona, Sun's photosphere, chromosphere, solar emissions, solar winds and flares, and Coronal Mass Ejections (CMEs), and will carry out round-the-clock imaging of the Sun.The mission will be launched by ISRO to the L1 orbit which is about 1.5 million km from the Earth. The orbit allows Aditya-L1 to look at the Sun continuously."
+
+
+    document.getElementById("changepera2").innerHTML="L1 refers to Lagrangian/Lagrange Point 1, one of 5 points in the orbital plane of the Earth-Sun system.Lagrange Points are positions in space where the gravitational forces of a two-body system like the Sun and Earth produce enhanced regions of attraction and repulsion.These can be used by spacecraft to reduce fuel consumption needed to remain in position.A Satellite placed in the halo orbit around the L1 has the major advantage of continuously viewing the Sun without any occultation/ eclipses.The L1 point is home to the Solar and Heliospheric Observatory Satellite (SOHO), an international collaboration project of National Aeronautics and Space Administration (NASA) and the European Space Agency (ESA)."
+
+}
